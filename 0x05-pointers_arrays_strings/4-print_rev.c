@@ -6,9 +6,7 @@
  * @s: The string to print
  * Return: void
  */
-
 void print_rev(char *s)
-
 {
 	int c = 0;
 	
