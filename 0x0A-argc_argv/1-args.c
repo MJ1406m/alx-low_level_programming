@@ -1,14 +1,13 @@
 #include <stdio.h>
-
 /**
- * main -  writes its name
- * @argc: arguement count
- * @argv: array of pointers to arguement strings
- * Return: 0
- **/
+ * main - check the code for Holberton School students.
+ * @argv: The character to print
+ * @argc: The character to print
+ * Return: Always 0.
+ */
 int main(int argc, char *argv[])
 {
-	argc = argc;
-	printf("%s\n", *argv);
+	argv = argv;
+	printf("%d\n", argc - 1);
 	return (0);
 }
