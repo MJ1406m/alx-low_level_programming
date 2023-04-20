@@ -1,5 +1,5 @@
-#ifndef VARIADIC_FUNCTIONS.H
-#define VARIADIC_FUNCTIONS.H
+#ifndef _HEADER_
+#define _HEADER_
 
 #include <stdio.h>
 #include <unistd.h>
